@@ -1,0 +1,74 @@
+overlays:
+  AU G Rating overlay:
+    plex_search:
+      all:
+        content_rating: 'au/G'
+    overlay:
+      name: AU G Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-g.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
+
+  AU PG Rating overlay:
+    plex_search:
+      all:
+        content_rating: 'au/PG'
+    overlay:
+      name: AU PG Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-pg.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
+
+  AU M Rating overlay:
+    plex_search:
+      any:
+        content_rating:
+          - au/M
+          - TV-14
+    overlay:
+      name: AU M Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-m.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
+
+  AU MA15+ Rating overlay:
+    plex_search:
+      all:
+        content_rating: au/MA15+
+    overlay:
+      name: AU MA15+ Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-ma.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
+
+  AU R 18+ Rating overlay:
+    plex_search:
+      all:
+        content_rating: au/R 18+
+    overlay:
+      name: AU R 18+ Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-r.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
+
+  AU X 18+ Rating overlay:
+    plex_search:
+      all:
+        content_rating: au/X 18+
+    overlay:
+      name: AU X 18+ Rating overlay
+      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\X 18+ Rating overlay.png
+      horizontal_offset: 20
+      horizontal_align: left
+      vertical_offset: 20
+      vertical_align: bottom
