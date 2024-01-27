@@ -4,30 +4,9 @@ overlays:
       any:
         content_rating:
           - au/G
-          - U
-          - 0
-          - 1
-          - 01
-          - 2
-          - 02
-          - 3
-          - 03
-          - 4
-          - 04
-          - 5
-          - 05
           - G
           - TV-G
-          - TV-Y
-          - G - All Ages
-          - gb/U
-          - gb/0+
-          - E
-          - gb/E
-          - A
-          - no/A
-          - no/5
-          - no/05
+          - GP
     overlay:
       name: AU G Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-g.png
@@ -41,29 +20,8 @@ overlays:
       any:
         content_rating:
           - au/PG
-          - 6
-          - gb/9+
           - TV-PG
-          - TV-Y7
-          - TV-Y7-FV
           - PG
-          - 7
-          - 07
-          - 8
-          - 08
-          - 9
-          - 09
-          - 10
-          - 11
-          - PG - Children
-          - no/6
-          - no/06
-          - no/7
-          - no/07
-          - no/9
-          - no/09
-          - no/10
-          - no/11
     overlay:
       name: AU PG Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-pg.png
@@ -77,18 +35,8 @@ overlays:
       any:
         content_rating:
           - au/M
-          - gb/12
-          - 12
-          - no/12
-          - gb/15
-          - gb/14+
           - TV-14
-          - 13
-          - 14
-          - 15
-          - PG-13 - Teens 13 or older
           - PG-13
-          - no/15
     overlay:
       name: AU M Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-m.png
@@ -102,14 +50,10 @@ overlays:
       any:
         content_rating:
           - au/MA15+
-          - no/16
-          - A-17
-          - TVMA
+          - au/MA
+          - au/MA 15+
           - TV-MA
           - R
-          - 16
-          - 17
-          - M/PG
     overlay:
       name: AU MA15+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-ma.png
@@ -123,18 +67,9 @@ overlays:
       any:
         content_rating:
           - au/R 18+
-          - gb/18
-          - M
-          - 18
-          - R - 17+ (violence & profanity)
-          - no/18
-          - R18
-          - gb/R18
-          - gb/X
+          - au/R
+          - au/R18+
           - X
-          - NC-17
-          - R+ - Mild Nudity
-          - Rx - Hentai
     overlay:
       name: AU R 18+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-r.png
@@ -143,17 +78,17 @@ overlays:
       vertical_offset: 20
       vertical_align: bottom
 
-  AU X 18+ Rating overlay:
-    plex_search:
-      any:
-        content_rating:
-          - au/X 18+
-          - de/BPjM Restricted
-          - BPjM Restricted
-    overlay:
-      name: AU X 18+ Rating overlay
-      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-x.png
-      horizontal_offset: 20
-      horizontal_align: left
-      vertical_offset: 20
-      vertical_align: bottom
+  # AU X 18+ Rating overlay:
+    # plex_search:
+      # any:
+        # content_rating:
+          # - au/X 18+
+          # - de/BPjM Restricted
+          # - BPjM Restricted
+    # overlay:
+      # name: AU X 18+ Rating overlay
+      # url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-x.png
+      # horizontal_offset: 20
+      # horizontal_align: left
+      # vertical_offset: 20
+      # vertical_align: bottom
