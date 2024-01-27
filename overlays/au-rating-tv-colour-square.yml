@@ -5,7 +5,7 @@ overlays:
         content_rating: 'au/G'
     overlay:
       name: AU G Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-g.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-g.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -17,7 +17,7 @@ overlays:
         content_rating: 'au/PG'
     overlay:
       name: AU PG Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-pg.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-pg.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -31,7 +31,7 @@ overlays:
           - TV-14
     overlay:
       name: AU M Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-m.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-m.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -43,7 +43,7 @@ overlays:
         content_rating: au/MA15+
     overlay:
       name: AU MA15+ Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-ma.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-ma.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -55,7 +55,7 @@ overlays:
         content_rating: au/R 18+
     overlay:
       name: AU R 18+ Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\au-r.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-r.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -67,7 +67,7 @@ overlays:
         content_rating: au/X 18+
     overlay:
       name: AU X 18+ Rating overlay
-      file: C:\Users\2wenty2wo\Plex-Meta-Manager\config\overlays\X 18+ Rating overlay.png
+      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/X 18+ Rating overlay.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
