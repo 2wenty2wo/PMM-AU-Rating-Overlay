@@ -5,7 +5,7 @@ overlays:
         content_rating: 'au/G'
     overlay:
       name: AU G Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-g.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-g.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -17,7 +17,7 @@ overlays:
         content_rating: 'au/PG'
     overlay:
       name: AU PG Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-pg.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-pg.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -29,7 +29,7 @@ overlays:
         content_rating: 'au/M'
     overlay:
       name: AU M Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-m.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-m.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -41,7 +41,7 @@ overlays:
         content_rating: au/MA15+
     overlay:
       name: AU MA15+ Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-ma.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-ma.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -53,7 +53,7 @@ overlays:
         content_rating: au/R 18+
     overlay:
       name: AU R 18+ Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-r.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/au-r.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
@@ -65,7 +65,7 @@ overlays:
         content_rating: au/X 18+
     overlay:
       name: AU X 18+ Rating overlay
-      url: https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/X 18+ Rating overlay.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/overlays/images/X 18+ Rating overlay.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
