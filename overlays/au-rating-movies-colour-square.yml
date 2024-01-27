@@ -157,7 +157,7 @@ overlays:
           - BPjM Restricted
     overlay:
       name: AU X 18+ Rating overlay
-      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/X 18+ Rating overlay.png
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images/au-x.png
       horizontal_offset: 20
       horizontal_align: left
       vertical_offset: 20
