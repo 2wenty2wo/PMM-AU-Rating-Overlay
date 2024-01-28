@@ -10,9 +10,9 @@ overlays:
     overlay:
       name: AU G Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png
-      horizontal_offset: 20
+      horizontal_offset: 25
       horizontal_align: left
-      vertical_offset: 20
+      vertical_offset: 25
       vertical_align: bottom
 
   AU PG Rating overlay:
@@ -25,9 +25,9 @@ overlays:
     overlay:
       name: AU PG Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-pg.png
-      horizontal_offset: 20
+      horizontal_offset: 25
       horizontal_align: left
-      vertical_offset: 20
+      vertical_offset: 25
       vertical_align: bottom
 
   AU M Rating overlay:
@@ -40,9 +40,9 @@ overlays:
     overlay:
       name: AU M Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-m.png
-      horizontal_offset: 20
+      horizontal_offset: 25
       horizontal_align: left
-      vertical_offset: 20
+      vertical_offset: 25
       vertical_align: bottom
 
   AU MA15+ Rating overlay:
@@ -57,9 +57,9 @@ overlays:
     overlay:
       name: AU MA15+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-ma.png
-      horizontal_offset: 20
+      horizontal_offset: 25
       horizontal_align: left
-      vertical_offset: 20
+      vertical_offset: 25
       vertical_align: bottom
 
   AU R 18+ Rating overlay:
@@ -73,9 +73,9 @@ overlays:
     overlay:
       name: AU R 18+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-r.png
-      horizontal_offset: 20
+      horizontal_offset: 25
       horizontal_align: left
-      vertical_offset: 20
+      vertical_offset: 25
       vertical_align: bottom
 
   # AU X 18+ Rating overlay:
@@ -88,7 +88,7 @@ overlays:
     # overlay:
       # name: AU X 18+ Rating overlay
       # url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-x.png
-      # horizontal_offset: 20
+      # horizontal_offset: 25
       # horizontal_align: left
-      # vertical_offset: 20
+      # vertical_offset: 25
       # vertical_align: bottom
