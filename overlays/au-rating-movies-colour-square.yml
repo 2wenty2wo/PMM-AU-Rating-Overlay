@@ -1,36 +1,12 @@
 overlays:
   AU G Rating overlay:
     plex_search:
-      validate: false
       any:
         content_rating:
           - au/G
           - G
           - TV-G
           - GP
-          - de/0
-          - U
-          - 0
-          - 1
-          - 01
-          - 2
-          - 02
-          - 3
-          - 03
-          - 4
-          - 04
-          - 5
-          - 05
-          - TV-Y
-          - G - All Ages
-          - gb/U
-          - gb/0+
-          - E
-          - gb/E
-          - A
-          - no/A
-          - no/5
-          - no/05
     overlay:
       name: AU G Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png
