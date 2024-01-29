@@ -1,0 +1,118 @@
+overlays:
+  AU G Rating overlay:
+    plex_search:
+      validate: false
+      any:
+        content_rating:
+          - au/G
+          - G
+          - TV-G
+          - GP
+          - de/0
+          - U
+          - 0
+          - 1
+          - 01
+          - 2
+          - 02
+          - 3
+          - 03
+          - 4
+          - 04
+          - 5
+          - 05
+          - TV-Y
+          - G - All Ages
+          - gb/U
+          - gb/0+
+          - E
+          - gb/E
+          - A
+          - no/A
+          - no/5
+          - no/05
+    overlay:
+      name: AU G Rating overlay
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png
+      horizontal_offset: 25
+      horizontal_align: left
+      vertical_offset: 25
+      vertical_align: bottom
+
+  AU PG Rating overlay:
+    plex_search:
+      any:
+        content_rating:
+          - au/PG
+          - TV-PG
+          - PG
+    overlay:
+      name: AU PG Rating overlay
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-pg.png
+      horizontal_offset: 25
+      horizontal_align: left
+      vertical_offset: 25
+      vertical_align: bottom
+
+  AU M Rating overlay:
+    plex_search:
+      any:
+        content_rating:
+          - au/M
+          - TV-14
+          - PG-13
+    overlay:
+      name: AU M Rating overlay
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-m.png
+      horizontal_offset: 25
+      horizontal_align: left
+      vertical_offset: 25
+      vertical_align: bottom
+
+  AU MA15+ Rating overlay:
+    plex_search:
+      any:
+        content_rating:
+          - au/MA15+
+          - au/MA
+          - au/MA 15+
+          - TV-MA
+          - R
+    overlay:
+      name: AU MA15+ Rating overlay
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-ma.png
+      horizontal_offset: 25
+      horizontal_align: left
+      vertical_offset: 25
+      vertical_align: bottom
+
+  AU R 18+ Rating overlay:
+    plex_search:
+      any:
+        content_rating:
+          - au/R 18+
+          - au/R
+          - au/R18+
+          - X
+    overlay:
+      name: AU R 18+ Rating overlay
+      url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-r.png
+      horizontal_offset: 25
+      horizontal_align: left
+      vertical_offset: 25
+      vertical_align: bottom
+
+  # AU X 18+ Rating overlay:
+    # plex_search:
+      # any:
+        # content_rating:
+          # - au/X 18+
+          # - de/BPjM Restricted
+          # - BPjM Restricted
+    # overlay:
+      # name: AU X 18+ Rating overlay
+      # url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-x.png
+      # horizontal_offset: 25
+      # horizontal_align: left
+      # vertical_offset: 25
+      # vertical_align: bottom
