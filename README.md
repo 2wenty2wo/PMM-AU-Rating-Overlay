@@ -1,4 +1,4 @@
-# Plex Meta Manager Australian Content Rating Overlay
+# Kometa (Formerly 'Plex Meta Manager') Australian Content Rating Overlay
 This is a janky way of getting the Australian Content Rating lables as an overlay in [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager).
 
 ## Movies
