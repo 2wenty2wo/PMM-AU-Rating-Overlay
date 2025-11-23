@@ -49,6 +49,8 @@ overlays:
           - au/MA
           - au/MA 15+
           - au/MA-15
+          - MA15+
+          - MA
           - TV-MA
     overlay:
       name: AU MA15+ Rating overlay
