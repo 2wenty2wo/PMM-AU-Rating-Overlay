@@ -3,10 +3,10 @@ overlays:
     plex_search:
       any:
         content_rating:
-          - au/G
           - G
           - TV-G
           - GP
+          - TV-Y7
     overlay:
       name: AU G Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png
@@ -52,7 +52,6 @@ overlays:
           - au/MA15+
           - au/MA
           - au/MA 15+
-          - au/MA-15
           - MA15+
           - MA 15+
           - MA-15
@@ -71,10 +70,10 @@ overlays:
     plex_search:
       any:
         content_rating:
-          - au/R 18+
           - au/R
           - au/R18+
           - X
+          - 18+
     overlay:
       name: AU R 18+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-r.png
