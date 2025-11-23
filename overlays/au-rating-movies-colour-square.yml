@@ -52,7 +52,6 @@ overlays:
           - au/MA15+
           - au/MA
           - au/MA 15+
-          - MA15+
           - MA 15+
           - MA-15
           - MA
@@ -72,7 +71,6 @@ overlays:
         content_rating:
           - au/R
           - au/R18+
-          - X
           - 18+
     overlay:
       name: AU R 18+ Rating overlay
