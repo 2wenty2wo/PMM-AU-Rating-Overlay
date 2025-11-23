@@ -46,6 +46,7 @@ overlays:
       any:
         content_rating:
           - au/MA15+
+          - au/MA
           - au/MA 15+
           - au/MA-15
           - TV-MA
