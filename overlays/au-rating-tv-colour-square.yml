@@ -5,6 +5,7 @@ overlays:
         content_rating:
           - au/G
           - TV-Y7
+          - TV-G
     overlay:
       name: AU G Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png
