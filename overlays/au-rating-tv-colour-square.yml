@@ -62,6 +62,7 @@ overlays:
       any:
         content_rating:
           - au/R18+
+          - au/R 18+
     overlay:
       name: AU R 18+ Rating overlay
       url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-r.png
