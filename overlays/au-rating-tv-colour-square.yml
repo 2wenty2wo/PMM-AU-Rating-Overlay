@@ -50,6 +50,8 @@ overlays:
           - au/MA 15+
           - au/MA-15
           - MA15+
+          - MA 15+
+          - MA-15
           - MA
           - TV-MA
     overlay:
