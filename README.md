@@ -1,5 +1,6 @@
 # Kometa Australian Content Rating Overlay
-[![Kometa](https://img.shields.io/badge/Kometa-compatible-2ea44f)](https://github.com/meisnate12/Plex-Meta-Manager) [![Repo Size](https://img.shields.io/github/repo-size/2wenty2wo/PMM-AU-Rating-Overlay)](https://github.com/2wenty2wo/PMM-AU-Rating-Overlay) [![Last Commit](https://img.shields.io/github/last-commit/2wenty2wo/PMM-AU-Rating-Overlay)](https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/commits/main) [![License](https://img.shields.io/github/license/2wenty2wo/PMM-AU-Rating-Overlay)](https://github.com/2wenty2wo/PMM-AU-Rating-Overlay/blob/main/LICENSE)
+[![Kometa](https://img.shields.io/badge/Kometa-compatible-2ea44f)](https://github.com/meisnate12/Plex-Meta-Manager)
+
 This is a janky way of getting the Australian Content Rating labels as an overlay in [Kometa](https://github.com/meisnate12/Plex-Meta-Manager).
 
 ## Movies
