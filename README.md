@@ -18,3 +18,10 @@ This is a janky way of getting the Australian Content Rating labels as an overla
 ```yaml
 - url: https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/au-rating-tv-colour-square.yml
 ```
+
+## Overlay Icons
+![AU G](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-g.png)
+![AU PG](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-pg.png)
+![AU M](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-m.png)
+![AU MA](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-ma.png)
+![AU R](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/overlays/images150/au-r.png)
