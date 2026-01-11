@@ -1,5 +1,5 @@
 # Kometa Australian Content Rating Overlay
-This is a janky way of getting the Australian Content Rating lables as an overlay in [Kometa](https://github.com/meisnate12/Plex-Meta-Manager).
+This is a janky way of getting the Australian Content Rating labels as an overlay in [Kometa](https://github.com/meisnate12/Plex-Meta-Manager).
 
 ## Movies
 ![movie overlay colored](https://raw.githubusercontent.com/2wenty2wo/PMM-AU-Rating-Overlay/main/movies.png)
